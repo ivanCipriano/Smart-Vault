@@ -1,0 +1,2100 @@
+[
+    {
+        "id": "570cd342ece4aae8",
+        "type": "tab",
+        "label": "Flow 6",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "5e131151b753e7e4",
+        "type": "group",
+        "z": "570cd342ece4aae8",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "50f87f41c168cb11",
+            "30c7365013004e48",
+            "fd37e6f1393cd11b",
+            "f57c3552b183c4c8",
+            "f6142fc376fc4f85",
+            "c81b055755f7c2a3",
+            "6c6885f023a8beb3"
+        ],
+        "x": 1254,
+        "y": 619,
+        "w": 572,
+        "h": 202
+    },
+    {
+        "id": "5213f6216db38b44",
+        "type": "group",
+        "z": "570cd342ece4aae8",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "31fd0aba51f0ad78",
+            "07ab66ed09526210",
+            "3ee10ed7aa51efcc"
+        ],
+        "x": 794,
+        "y": 619,
+        "w": 432,
+        "h": 122
+    },
+    {
+        "id": "d4f97cb761d5f6bc",
+        "type": "group",
+        "z": "570cd342ece4aae8",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "14d296de4b1aa7a6",
+            "b0f6fe337cd06e45",
+            "d1b156a8fd49ed9f",
+            "41142685f9274baa",
+            "6108e530a4911226",
+            "642faa34b1077c19",
+            "9a16b7d70e749416",
+            "94934be78ea81e69",
+            "bd0ac8809dab2854",
+            "bda953894364b73f"
+        ],
+        "x": 14,
+        "y": 619,
+        "w": 752,
+        "h": 262
+    },
+    {
+        "id": "3bfa2fead9d1430a",
+        "type": "group",
+        "z": "570cd342ece4aae8",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6faae349604fa3d0",
+            "7ffbabd16951a691",
+            "5ade4b456f741282",
+            "ce444408da5e487b",
+            "67b21bb33c2b02b0",
+            "838670e499e2df70",
+            "6a358611683503bd",
+            "9f785664b8e03bed",
+            "3e0e46dbf008ff8d",
+            "517e06c618f197bb",
+            "2c89d7ee5744c290",
+            "e4957ae73bdcd7ac",
+            "66a1d54e523152ee",
+            "5336e79c59a05921",
+            "4691fe6c4a06f396",
+            "5433d2736a172f58",
+            "07830295c0d20663",
+            "0f439b002e307571",
+            "80fb11d7f31d0f54",
+            "22f4dc27b46af300"
+        ],
+        "x": 14,
+        "y": 899,
+        "w": 1852,
+        "h": 402
+    },
+    {
+        "id": "44214416c05b5596",
+        "type": "group",
+        "z": "570cd342ece4aae8",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3d0614093ef4dda6",
+            "3a1e915f8ac3171d",
+            "abee1f9a7093f630",
+            "cbb7532b1afe81eb",
+            "c119db874e1152eb",
+            "390164f9f888636a",
+            "060b8b6df5b3bf54",
+            "e1f3abe23bba21d9",
+            "5691dd6985b22735",
+            "e746abb628f7dbc1",
+            "c279ed44867a819f",
+            "be6beb8ec6c9f6f9",
+            "eb9388339751094f",
+            "24dbf3ce093abefc",
+            "669490c21e8fa47e",
+            "ea6e0f075d5c39a8",
+            "da26df2a49a8b248",
+            "e5238d5cfbf25022",
+            "670cfa50107323fd",
+            "71ce57fb5de326f2",
+            "2c85620c184dbd09",
+            "b23da0dddb8a1cdc",
+            "cf60ac6a4774d328",
+            "42bb377f8a7760b0",
+            "739cf5c768a1f3e3",
+            "2299fd6a41d9b561",
+            "0c53a0d8dc1cb9b9",
+            "af9935af8193146b",
+            "5f3842177214afc9",
+            "f15d93594720aad1",
+            "906a1b05dcfec029",
+            "f9feafe0a0408106",
+            "b97fa965d640abf8"
+        ],
+        "x": 34,
+        "y": 99,
+        "w": 2032,
+        "h": 502
+    },
+    {
+        "id": "a83802e5421ea4d7",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-custom",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0cd354",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#00bfff",
+                "baseFont": "Tahoma,Geneva,sans-serif",
+                "reset": false
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#4B7930",
+                    "value": "#00bfff",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#00bfff",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#05be70",
+                    "edited": true
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#00bfff",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "Tahoma,Geneva,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "10e78a89.5b4fd5",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "test.mosquitto.org",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "856a4f728832703b",
+        "type": "ui_tab",
+        "name": "Dashboard",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "f1a3df160cb99179",
+        "type": "ui_group",
+        "name": "Stato del Sistema",
+        "tab": "856a4f728832703b",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "ae689411be2170d9",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "192.168.1.80",
+        "port": "3333",
+        "db": "forti_vault",
+        "tz": "+00:00",
+        "charset": "UTF8"
+    },
+    {
+        "id": "4a4df584aefa8c1e",
+        "type": "ui_tab",
+        "name": "Statistiche",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "bf3d4da9d8e41273",
+        "type": "ui_group",
+        "name": "Accessi",
+        "tab": "4a4df584aefa8c1e",
+        "order": 1,
+        "disp": true,
+        "width": "10",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "8ae5c1095b7f3601",
+        "type": "ui_group",
+        "name": "Allarme",
+        "tab": "4a4df584aefa8c1e",
+        "order": 2,
+        "disp": true,
+        "width": 10,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "db045f1018a4fc5c",
+        "type": "ui_group",
+        "name": "Modalità manuale",
+        "tab": "856a4f728832703b",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "2fd65ef6e66b9730",
+        "type": "ui_spacer",
+        "z": "570cd342ece4aae8",
+        "name": "spacer",
+        "group": "f1a3df160cb99179",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "9b36719fb0b52a90",
+        "type": "ui_spacer",
+        "z": "570cd342ece4aae8",
+        "name": "spacer",
+        "group": "f1a3df160cb99179",
+        "order": 7,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "d0ebdfca2e5259fb",
+        "type": "ui_spacer",
+        "z": "570cd342ece4aae8",
+        "name": "spacer",
+        "group": "f1a3df160cb99179",
+        "order": 9,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "3d0614093ef4dda6",
+        "type": "ui_text",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "group": "f1a3df160cb99179",
+        "order": 8,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Accessi giornalieri: ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 890,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "3a1e915f8ac3171d",
+        "type": "mqtt in",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "Allarme",
+        "topic": "FortiVault/Alarm/Notification",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 210,
+        "y": 380,
+        "wires": [
+            [
+                "c119db874e1152eb"
+            ]
+        ]
+    },
+    {
+        "id": "abee1f9a7093f630",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "Alarm Notification",
+        "func": "// si assegna alla variabile alertmessage il messaggio che si vuole inviare\nvar alertmessage=\"Attenzione:l'allarme sta suonando!\";\n\n//il tipo di msg viene posto a \"WARNING\"\nmsg.type=\"WARNING\";\n\n\nmsg.payload=alertmessage;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 440,
+        "wires": [
+            [
+                "cbb7532b1afe81eb"
+            ]
+        ]
+    },
+    {
+        "id": "cbb7532b1afe81eb",
+        "type": "ui_toast",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "position": "dialog",
+        "displayTime": "7",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Alarm",
+        "x": 1030,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "31fd0aba51f0ad78",
+        "type": "ui_button",
+        "z": "570cd342ece4aae8",
+        "g": "5213f6216db38b44",
+        "name": "",
+        "group": "f1a3df160cb99179",
+        "order": 10,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "Riavvia",
+        "tooltip": "",
+        "color": "white",
+        "bgcolor": "red",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 880,
+        "y": 700,
+        "wires": [
+            [
+                "07ab66ed09526210"
+            ]
+        ]
+    },
+    {
+        "id": "07ab66ed09526210",
+        "type": "mqtt out",
+        "z": "570cd342ece4aae8",
+        "g": "5213f6216db38b44",
+        "name": "",
+        "topic": "FortiVault/System/State",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "10e78a89.5b4fd5",
+        "x": 1090,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "14d296de4b1aa7a6",
+        "type": "mqtt in",
+        "z": "570cd342ece4aae8",
+        "g": "d4f97cb761d5f6bc",
+        "name": "",
+        "topic": "FortiVault/Door/State",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 150,
+        "y": 840,
+        "wires": [
+            [
+                "94934be78ea81e69"
+            ]
+        ]
+    },
+    {
+        "id": "b0f6fe337cd06e45",
+        "type": "ui_text",
+        "z": "570cd342ece4aae8",
+        "g": "d4f97cb761d5f6bc",
+        "group": "f1a3df160cb99179",
+        "order": 4,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Stato porta: ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 650,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "d1b156a8fd49ed9f",
+        "type": "ui_text",
+        "z": "570cd342ece4aae8",
+        "g": "d4f97cb761d5f6bc",
+        "group": "f1a3df160cb99179",
+        "order": 2,
+        "width": 4,
+        "height": 1,
+        "name": "",
+        "label": "Stato allarme: ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 660,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "41142685f9274baa",
+        "type": "mqtt in",
+        "z": "570cd342ece4aae8",
+        "g": "d4f97cb761d5f6bc",
+        "name": "",
+        "topic": "FortiVault/Alarm/State",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 140,
+        "y": 780,
+        "wires": [
+            [
+                "9a16b7d70e749416"
+            ]
+        ]
+    },
+    {
+        "id": "6108e530a4911226",
+        "type": "mqtt in",
+        "z": "570cd342ece4aae8",
+        "g": "d4f97cb761d5f6bc",
+        "name": "",
+        "topic": "FortiVault/Lights/State",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 140,
+        "y": 720,
+        "wires": [
+            [
+                "bd0ac8809dab2854"
+            ]
+        ]
+    },
+    {
+        "id": "642faa34b1077c19",
+        "type": "ui_text",
+        "z": "570cd342ece4aae8",
+        "g": "d4f97cb761d5f6bc",
+        "group": "f1a3df160cb99179",
+        "order": 6,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Stato luci: ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 640,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "9a16b7d70e749416",
+        "type": "change",
+        "z": "570cd342ece4aae8",
+        "g": "d4f97cb761d5f6bc",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.allarme_attivo",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 780,
+        "wires": [
+            [
+                "d1b156a8fd49ed9f"
+            ]
+        ]
+    },
+    {
+        "id": "c119db874e1152eb",
+        "type": "change",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.allarme_sta_suonando",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 400,
+        "y": 380,
+        "wires": [
+            [
+                "390164f9f888636a",
+                "af9935af8193146b"
+            ]
+        ]
+    },
+    {
+        "id": "390164f9f888636a",
+        "type": "switch",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 610,
+        "y": 380,
+        "wires": [
+            [
+                "abee1f9a7093f630",
+                "669490c21e8fa47e"
+            ]
+        ]
+    },
+    {
+        "id": "94934be78ea81e69",
+        "type": "change",
+        "z": "570cd342ece4aae8",
+        "g": "d4f97cb761d5f6bc",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.porta",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 840,
+        "wires": [
+            [
+                "b0f6fe337cd06e45"
+            ]
+        ]
+    },
+    {
+        "id": "bd0ac8809dab2854",
+        "type": "change",
+        "z": "570cd342ece4aae8",
+        "g": "d4f97cb761d5f6bc",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.luce",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 720,
+        "wires": [
+            [
+                "642faa34b1077c19"
+            ]
+        ]
+    },
+    {
+        "id": "060b8b6df5b3bf54",
+        "type": "mqtt in",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "topic": "FortiVault/Door/Access",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 160,
+        "y": 200,
+        "wires": [
+            [
+                "c279ed44867a819f"
+            ]
+        ]
+    },
+    {
+        "id": "e1f3abe23bba21d9",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "selectAll",
+        "func": "// si inizializzano due variabili di tipo Date\nvar today = new Date();\nvar firstDate = new Date();\n\n//vengono sottratti alla variabile firstDate 6 giorni\nfirstDate.setDate(today.getDate() - 6);\n\n// Converte la data nel formato ISO 8601 senza il tempo specifico\ntoday= today.toISOString().split('T')[0];\n\n// Converte la data nel formato ISO 8601 senza il tempo specifico\nfirstDate = firstDate.toISOString().split('T')[0];\n\n//viene definita la query che verrà effettuata al DB estraendo\n// tutti i dati con la data compresa tra today e firstDate.\nmsg.topic = `SELECT * FROM accessi WHERE data >= '${firstDate}' AND data<='${today}' ORDER BY data ASC`;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1220,
+        "y": 140,
+        "wires": [
+            [
+                "2299fd6a41d9b561"
+            ]
+        ]
+    },
+    {
+        "id": "5691dd6985b22735",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "Conteggio giornaliero",
+        "func": "//assegna alla variabile accessi il valore del msg.payload\nvar accessi=msg.payload;\n\n// assegna alla variabile currentDate la data corrente \n//convertita nel formato ISO 8601 senza il tempo specifico\nvar currentDate = new Date().toISOString().split('T')[0];\n\n// si assegna a msg.topic la query che verrà effettuata sul DB\nmsg.topic= `UPDATE accessi SET n_accessi = ${accessi} WHERE data = '${currentDate}'`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 200,
+        "wires": [
+            [
+                "e746abb628f7dbc1",
+                "3d0614093ef4dda6"
+            ]
+        ]
+    },
+    {
+        "id": "e746abb628f7dbc1",
+        "type": "mysql",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "mydb": "ae689411be2170d9",
+        "name": "",
+        "x": 860,
+        "y": 140,
+        "wires": [
+            [
+                "be6beb8ec6c9f6f9"
+            ]
+        ]
+    },
+    {
+        "id": "c279ed44867a819f",
+        "type": "change",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.n_accessi",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 400,
+        "y": 200,
+        "wires": [
+            [
+                "5691dd6985b22735"
+            ]
+        ]
+    },
+    {
+        "id": "be6beb8ec6c9f6f9",
+        "type": "trigger",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "trigger_query",
+        "op1": "",
+        "op2": "",
+        "op1type": "nul",
+        "op2type": "nul",
+        "duration": "250",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "ms",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 1050,
+        "y": 140,
+        "wires": [
+            [
+                "e1f3abe23bba21d9"
+            ]
+        ]
+    },
+    {
+        "id": "eb9388339751094f",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "Conversione",
+        "func": "var giorni = [];\nvar n_accessi = [];\nvar date = [];\n\n//si estraggono i dati ritornati dalla query, assegnando i vari campi a\n//degli array che contengono rispettivamente le date, i giorni e n_accessi\nfor(let i = 0; i<msg.payload.length; i++){\n    date[i] = msg.payload[i].data.toISOString().split('T')[0];\n    giorni[i] = msg.payload[i].giorno;\n    n_accessi[i] = msg.payload[i].n_accessi;\n}\n\n//si costruisce il msg.payload che verrà passato al nodo grafico,\n//il quale conterrà la sezione \"series\" che permette di specificare\n//le date a cui si riferiscono gli accessi, sezione \"data\" che contiene gli accessi\n//e sezione \"labels\" che si riferisce ai giorni rappresentati sul grafico\nmsg.payload = [{\n    \"series\": [`Accessi da '${date[0]}' a '${date[date.length - 1]}'`],\n    \"data\": n_accessi,\n    \"labels\": giorni\n}];\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1570,
+        "y": 160,
+        "wires": [
+            [
+                "2c85620c184dbd09"
+            ]
+        ]
+    },
+    {
+        "id": "24dbf3ce093abefc",
+        "type": "ui_led",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "order": 3,
+        "group": "f1a3df160cb99179",
+        "width": 2,
+        "height": 1,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#ffffff",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 870,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "669490c21e8fa47e",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "Conteggio attivazioni allarme",
+        "func": "//assegna alla variabile accessi il valore del msg.payload\nvar accessi=msg.payload;\n\n// assegna alla variabile currentDate la data corrente \n//convertita nel formato ISO 8601 senza il tempo specifico\nvar currentDate = new Date().toISOString().split('T')[0];\n\n// si assegna a msg.topic la query che verrà effettuata sul DB\nmsg.topic= `UPDATE allarme SET n_attiv =n_attiv+1  WHERE giorno = '${currentDate}'`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 860,
+        "y": 380,
+        "wires": [
+            [
+                "ea6e0f075d5c39a8"
+            ]
+        ]
+    },
+    {
+        "id": "ea6e0f075d5c39a8",
+        "type": "mysql",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "mydb": "ae689411be2170d9",
+        "name": "",
+        "x": 1080,
+        "y": 380,
+        "wires": [
+            [
+                "da26df2a49a8b248"
+            ]
+        ]
+    },
+    {
+        "id": "da26df2a49a8b248",
+        "type": "trigger",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "trigger_query",
+        "op1": "",
+        "op2": "0",
+        "op1type": "nul",
+        "op2type": "str",
+        "duration": "250",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "ms",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 1250,
+        "y": 380,
+        "wires": [
+            [
+                "e5238d5cfbf25022"
+            ]
+        ]
+    },
+    {
+        "id": "e5238d5cfbf25022",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "selectAll",
+        "func": "// si inizializzano due variabili di tipo Date\nvar today = new Date();\nvar firstDate = today;\n\n//vengono sottratti alla variabile firstDate 6 giorni\nfirstDate.setDate(today.getDate() - 6);\n\n// Converte la data nel formato ISO 8601 senza il tempo specifico\ntoday= today.toISOString().split('T')[0];\n\n// Converte la data nel formato ISO 8601 senza il tempo specifico\nfirstDate = firstDate.toISOString().split('T')[0];\n\n//viene definita la query che verrà effettuata al DB estraendo\n// tutti i dati con la data compresa tra today e firstDate.\nmsg.topic = `SELECT * FROM allarme WHERE data >= '${firstDate}' AND data<='${today}' ORDER BY data ASC`;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1420,
+        "y": 380,
+        "wires": [
+            [
+                "670cfa50107323fd"
+            ]
+        ]
+    },
+    {
+        "id": "670cfa50107323fd",
+        "type": "mysql",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "mydb": "ae689411be2170d9",
+        "name": "",
+        "x": 1580,
+        "y": 440,
+        "wires": [
+            [
+                "71ce57fb5de326f2"
+            ]
+        ]
+    },
+    {
+        "id": "71ce57fb5de326f2",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "Conversione",
+        "func": "var giorni = [];\nvar n_attiv = [];\nvar date = [];\n\n//si estraggono i dati ritornati dalla query, assegnando i vari campi a\n//degli array che contengono rispettivamente le date, i giorni e n_attiv\nfor(let i = 0; i<msg.payload.length; i++){\n    date[i] = msg.payload[i].data.toISOString().split('T')[0];\n    giorni[i] = msg.payload[i].giorno;\n    n_attiv[i] = msg.payload[i].n_attiv;\n}\n\n\n//si costruisce il msg.payload che verrà passato al nodo grafico,\n//il quale conterrà la sezione \"series\" che permette di specificare\n//le date a cui si riferiscono gli accessi, sezione \"data\" che contiene gli accessi\n//e sezione \"labels\" che si riferisce ai giorni rappresentati sul grafico\nmsg.payload = [{\n    \"series\": [`Accessi da '${date[0]}' a '${date[date.length - 1]}'`],\n    \"data\": n_attiv,\n    \"labels\": giorni\n}];\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1750,
+        "y": 440,
+        "wires": [
+            [
+                "b23da0dddb8a1cdc"
+            ]
+        ]
+    },
+    {
+        "id": "2c85620c184dbd09",
+        "type": "ui_chart",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "group": "bf3d4da9d8e41273",
+        "order": 1,
+        "width": 10,
+        "height": 6,
+        "label": "Accessi giornalieri",
+        "chartType": "bar",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1790,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b23da0dddb8a1cdc",
+        "type": "ui_chart",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "group": "8ae5c1095b7f3601",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "label": "Attivazione allarme",
+        "chartType": "bar",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1950,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cf60ac6a4774d328",
+        "type": "ui_date_picker",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "label": "Seleziona data accessi",
+        "group": "bf3d4da9d8e41273",
+        "order": 2,
+        "width": 10,
+        "height": 1,
+        "passthru": true,
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 940,
+        "y": 200,
+        "wires": [
+            [
+                "42bb377f8a7760b0"
+            ]
+        ]
+    },
+    {
+        "id": "42bb377f8a7760b0",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "queryDataAccessi",
+        "func": "//assegna alla variabile dateInput il valore msg.payload\nvar dateInput =new Date(msg.payload);\n\n// si assegna alla variabile firstDate il valore di dateInput\nvar firstDate = new Date(dateInput);\n\n//si sottrae alla variabile firstDate 6 giorni e si assegna il nuovo valore\nfirstDate.setDate(dateInput.getDate() - 6);\n\n// Converte la data nel formato ISO 8601 senza il tempo specifico\ndateInput = dateInput.toISOString().split('T')[0]; \nfirstDate = firstDate.toISOString().split('T')[0];\n\nmsg.payload = firstDate;\n\n//si definisce la query che permette di estrarre i valori dal DB\n// con data compresa tra i valori firstDate e dateInput\nmsg.topic = `SELECT * FROM accessi WHERE data >= '${firstDate}' AND data<='${dateInput}' ORDER BY data ASC`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1190,
+        "y": 200,
+        "wires": [
+            [
+                "2299fd6a41d9b561"
+            ]
+        ]
+    },
+    {
+        "id": "50f87f41c168cb11",
+        "type": "inject",
+        "z": "570cd342ece4aae8",
+        "g": "5e131151b753e7e4",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "00 00 * * *",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 1350,
+        "y": 780,
+        "wires": [
+            [
+                "30c7365013004e48"
+            ]
+        ]
+    },
+    {
+        "id": "30c7365013004e48",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "5e131151b753e7e4",
+        "name": "insertNewDateAllarme",
+        "func": "var todayName=[\"Domenica\",\"Lunedì\",\"Martedì\",\"Mercoledì\",\"Giovedì\",\"Venerdì\",\"Sabato\"];\n\n//si assegna alla variabile index l'indice relativo al giorno corrente\nvar index=(new Date()).getDay();\n\n//si estrae dalla variabile todayName il giorno che si riferisce all'indice stabilito\nvar today=todayName[index];\n\n//si imposta il numero di accessi a 0\nvar access = 0;\n\n// Converte la data nel formato ISO 8601 senza il tempo specifico\nvar currentDate = new Date().toISOString().split('T')[0];\n\n//si definisce l'insert da andare ad effettuare sul DB specificando la data corrente, il giorno e il numero di accessi\nmsg.topic = `INSERT INTO allarme(data,giorno,n_attiv) VALUES('${currentDate}','${today}',${access});`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1540,
+        "y": 780,
+        "wires": [
+            [
+                "fd37e6f1393cd11b"
+            ]
+        ]
+    },
+    {
+        "id": "fd37e6f1393cd11b",
+        "type": "mysql",
+        "z": "570cd342ece4aae8",
+        "g": "5e131151b753e7e4",
+        "mydb": "ae689411be2170d9",
+        "name": "",
+        "x": 1740,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f57c3552b183c4c8",
+        "type": "inject",
+        "z": "570cd342ece4aae8",
+        "g": "5e131151b753e7e4",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "00 00 * * *",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 1350,
+        "y": 720,
+        "wires": [
+            [
+                "f6142fc376fc4f85"
+            ]
+        ]
+    },
+    {
+        "id": "f6142fc376fc4f85",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "5e131151b753e7e4",
+        "name": "insertNewDateAccessi",
+        "func": "var todayName=[\"Domenica\",\"Lunedì\",\"Martedì\",\"Mercoledì\",\"Giovedì\",\"Venerdì\",\"Sabato\"];\n\n//si assegna alla variabile index l'indice relativo al giorno corrente\nvar index=(new Date()).getDay();\n\n//si estrae dalla variabile todayName il giorno che si riferisce all'indice stabilito\nvar today=todayName[index];\n\n//si imposta il numero di accessi a 0\nvar access = 0;\n\n// Converte la data nel formato ISO 8601 senza il tempo specifico\nvar currentDate = new Date().toISOString().split('T')[0];\n\n//si definisce l'insert da andare ad effettuare sul DB specificando la data corrente, il giorno e il numero di accessi\nmsg.topic = `INSERT INTO accessi(data,giorno,n_accessi) VALUES('${currentDate}','${today}',${access});`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1540,
+        "y": 720,
+        "wires": [
+            [
+                "c81b055755f7c2a3"
+            ]
+        ]
+    },
+    {
+        "id": "c81b055755f7c2a3",
+        "type": "mysql",
+        "z": "570cd342ece4aae8",
+        "g": "5e131151b753e7e4",
+        "mydb": "ae689411be2170d9",
+        "name": "",
+        "x": 1740,
+        "y": 720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "739cf5c768a1f3e3",
+        "type": "ui_date_picker",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "label": "Seleziona data allarme",
+        "group": "8ae5c1095b7f3601",
+        "order": 2,
+        "width": 10,
+        "height": 1,
+        "passthru": true,
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 1140,
+        "y": 480,
+        "wires": [
+            [
+                "0c53a0d8dc1cb9b9"
+            ]
+        ]
+    },
+    {
+        "id": "2299fd6a41d9b561",
+        "type": "mysql",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "mydb": "ae689411be2170d9",
+        "name": "",
+        "x": 1380,
+        "y": 160,
+        "wires": [
+            [
+                "eb9388339751094f"
+            ]
+        ]
+    },
+    {
+        "id": "0c53a0d8dc1cb9b9",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "queryDataAllarme",
+        "func": "//assegna alla variabile dateInput il valore msg.payload\nvar dateInput =new Date(msg.payload);\n\n// si assegna alla variabile firstDate il valore di dateInput\nvar firstDate = new Date(dateInput);\n\nfirstDate.setDate(dateInput.getDate() - 6);\n\n// Converti la data nel formato ISO 8601 senza il tempo specifico\ndateInput = dateInput.toISOString().split('T')[0]; \nfirstDate = firstDate.toISOString().split('T')[0];\nmsg.payload = firstDate;\n\n//si definisce la query che verrà effettuata per estrarre i valori\n//dal DB con data compresa tra firstDate e dateInput\nmsg.topic = `SELECT * FROM allarme WHERE data >= '${firstDate}' AND data<='${dateInput}' ORDER BY data ASC`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1390,
+        "y": 480,
+        "wires": [
+            [
+                "670cfa50107323fd"
+            ]
+        ]
+    },
+    {
+        "id": "af9935af8193146b",
+        "type": "BlinkerUltimate",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "Blinker",
+        "stopbehaviorPIN1": "0",
+        "stopbehaviorPIN2": "0",
+        "blinkfrequency": "500",
+        "initializewith": "0",
+        "payloadPropName": "payload",
+        "x": 660,
+        "y": 500,
+        "wires": [
+            [
+                "24dbf3ce093abefc"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "5f3842177214afc9",
+        "type": "inject",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 430,
+        "y": 540,
+        "wires": [
+            [
+                "af9935af8193146b"
+            ]
+        ]
+    },
+    {
+        "id": "6c6885f023a8beb3",
+        "type": "comment",
+        "z": "570cd342ece4aae8",
+        "g": "5e131151b753e7e4",
+        "name": "",
+        "info": "Questa sezione è dedicata all'inserimento di nuovi valori all'interno del database.\nIl nodo \"True\" è un nodo ciclico il quale si attiva con cadenza giornaliera allo scoccare della mezzanotte,\nquando si attiva, viene attivata una funzione, la quale invia una query al database che inserisce una nuova tupla\nrelativa al giorno attuale, permettendo così di avere sempre tuple aggiornate nel DB.",
+        "x": 1340,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "bda953894364b73f",
+        "type": "comment",
+        "z": "570cd342ece4aae8",
+        "g": "d4f97cb761d5f6bc",
+        "name": "",
+        "info": "Il primo nodo \"FortiVault/Lights/State\" invia un messaggio, il quale viene estratto perché in formato JSON \ne stampa sulla dashboard il valore sullo schermo nella sezione \"Stato luci:\".\nIl secondo nodo \"FortiVault/Alarm/State\" invia un messaggio, il quale viene estratto perché in formato JSON \ne stampa sulla dashboard il valore sullo schermo nella sezione \"Stato allarme:\".\nIl secondo nodo \"FortiVault/Door/State\" invia un messaggio, il quale viene estratto perché in formato JSON \ne stampa sulla dashboard il valore sullo schermo nella sezione \"Stato porta:\".",
+        "x": 100,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "f15d93594720aad1",
+        "type": "comment",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "info": "**Nuovo accesso**\nquesta sezione è dedicata alla schermata \"Statistiche\" della dashboard. Quando si riceve un nuovo messaggio dal topic\n\"FortiVault/Door/Access\" si estrae il payload che contiene il numero di accessi effettuati e si passa il valore ad una funzione\n\"Conteggio giornaliero\" il quale permette di scrivere la query da effettuare al DB per aggiornare i dati di accesso giornalieri.\nDopo aver effettuato l'update il grafico degli accessi deve essere aggiornato, quindi utilizziamo un nodo \"trigger\" che si attiva\nalla ricezione del valore ritornato dalla update e attiva di conseguenza una funzione \"selectAll\" la quale permette di effettuare \nuna seconda query al database per prelevare tutte le tuple relative all'ultima settimana. Il risultato della query viene passato\nnuovamente ad una funzione di \"Conversione\" la quale permette di estrarre tutte le tuple ritornate dalla query e di mostrare sul\ngrafico questi valori. \n\n**Seleziona nuova data**\nQuando si seleziona una nuova data su cui visualizzare gli accessi si dovrà effettuare una nuova query al DB e prelevare\ni dati relativi fino a 7 giorni prima della data specificata.",
+        "x": 160,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "7ffbabd16951a691",
+        "type": "change",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "Abilitazione",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 870,
+        "y": 1040,
+        "wires": [
+            [
+                "ce444408da5e487b"
+            ]
+        ]
+    },
+    {
+        "id": "5ade4b456f741282",
+        "type": "ui_switch",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "label": "Apertura porta",
+        "tooltip": "Chiusura/Apertura",
+        "group": "db045f1018a4fc5c",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "enabled",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1440,
+        "y": 1120,
+        "wires": [
+            [
+                "6a358611683503bd"
+            ]
+        ]
+    },
+    {
+        "id": "ce444408da5e487b",
+        "type": "ui_switch",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "label": "Disattiva allarme",
+        "tooltip": "Attiva/Disattiva",
+        "group": "db045f1018a4fc5c",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1060,
+        "y": 1040,
+        "wires": [
+            [
+                "9f785664b8e03bed",
+                "517e06c618f197bb"
+            ]
+        ]
+    },
+    {
+        "id": "67b21bb33c2b02b0",
+        "type": "inject",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 710,
+        "y": 1080,
+        "wires": [
+            [
+                "7ffbabd16951a691"
+            ]
+        ]
+    },
+    {
+        "id": "838670e499e2df70",
+        "type": "mqtt out",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "topic": "FortiVault/System/Manual",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "10e78a89.5b4fd5",
+        "x": 910,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "6a358611683503bd",
+        "type": "mqtt out",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "topic": "FortiVault/System/Manual/Door",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "10e78a89.5b4fd5",
+        "x": 1710,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "9f785664b8e03bed",
+        "type": "mqtt out",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "topic": "FortiVault/System/Manual/Alarm",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "10e78a89.5b4fd5",
+        "x": 1410,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "3e0e46dbf008ff8d",
+        "type": "comment",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "info": "Il nodo \"FortiVault/System/Manual/State\" invia un messaggio per segnalare se il sistema è in modalità manuale o automatica.\nIL messaggio verrà inviato al nodo \"Disattivazione\" il quale permetterà di disattivare automaticamente il controllo manuale \nse il sistema impone che la modalità di funzioanmento è quella automatica.\nIl pulsante \"controllo manuale\" risulta essere disabilitato se l'allarme è attivo, non consentendo\ncosì di poterla inserire. Ciò si implementa estraendo il messaggio ricevuto sul topic \"FortiVault/Alarm/Notification\",\nin particolare se il messaggio estratto è \"true\" allora vuol dire che l'allarme sta suonando, quindi è necessario disattivare il controllo manuale\nsettando nel nodo \"Disabilitazione\" il pulsante come \"enabled\" con payload \"false\".\nSe l'allarme non sta suonando allora è necessario riabilitare l'utilizzo del pulsante.\n\n**Modalità manuale**\nCon la stessa logica se il controllo manuale risulta essere disattivato non saranno abilitati i pulsanti di\n\"disattiva allarme\" e \"apertura porta\", una volta attivato il pulsante controllo manuale solo il pulsante\n\"disattiva allarme\" può essere abilitato poiché non è possibile aprire la porta in modalità manuale senza prima\ndisattivare l'allarme. Quando si disattiva l'allarme, allora è possibile anche aprire la porta.\nIl pulsante \"Controllo manuale\" invia un messaggio sul topic \"FortiVault/System/Manual\" il quale verrà utilizzato\ndal sistema per capire se il sistema è in modalità manuale o in modalità automatica.\n\n**Disattiva allarme**\nIl pulsante disattiva allarme invia un messaggio sul topic \"FortiVault/System/Manual/Alarm\"\nil quale viene utilizzato dal sistema per effettuare le corrette azioni di disattivazione e attivazione dell'allarme.\n\n**Apertura porta**\nIl pulsante apertura porta invia un messaggio sul topic \"FortiVault/System/Manual/Door\"\nil quale viene utilizzato dal sistema per effettuare le corrette azioni di apertura e chiusura porta.",
+        "x": 180,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "517e06c618f197bb",
+        "type": "change",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "Abilitazione",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1250,
+        "y": 1120,
+        "wires": [
+            [
+                "5ade4b456f741282"
+            ]
+        ]
+    },
+    {
+        "id": "2c89d7ee5744c290",
+        "type": "mqtt in",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "topic": "FortiVault/System/Manual/State",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 1000,
+        "wires": [
+            [
+                "e4957ae73bdcd7ac"
+            ]
+        ]
+    },
+    {
+        "id": "e4957ae73bdcd7ac",
+        "type": "change",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "Disattivazione",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 940,
+        "wires": [
+            [
+                "6faae349604fa3d0"
+            ]
+        ]
+    },
+    {
+        "id": "6faae349604fa3d0",
+        "type": "ui_switch",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "label": "Controllo manuale:",
+        "tooltip": "",
+        "group": "f1a3df160cb99179",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 670,
+        "y": 1000,
+        "wires": [
+            [
+                "838670e499e2df70",
+                "7ffbabd16951a691"
+            ]
+        ]
+    },
+    {
+        "id": "66a1d54e523152ee",
+        "type": "mqtt in",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "topic": "FortiVault/Alarm/Notification",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 160,
+        "y": 1100,
+        "wires": [
+            [
+                "07830295c0d20663"
+            ]
+        ]
+    },
+    {
+        "id": "5336e79c59a05921",
+        "type": "switch",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 390,
+        "y": 1180,
+        "wires": [
+            [
+                "4691fe6c4a06f396"
+            ]
+        ]
+    },
+    {
+        "id": "4691fe6c4a06f396",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "function 1",
+        "func": "msg.payload = false;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 1120,
+        "wires": [
+            [
+                "5433d2736a172f58"
+            ]
+        ]
+    },
+    {
+        "id": "5433d2736a172f58",
+        "type": "change",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "Disabilitazione",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 1020,
+        "wires": [
+            [
+                "6faae349604fa3d0"
+            ]
+        ]
+    },
+    {
+        "id": "07830295c0d20663",
+        "type": "change",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.allarme_sta_suonando",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 180,
+        "y": 1180,
+        "wires": [
+            [
+                "5336e79c59a05921",
+                "0f439b002e307571"
+            ]
+        ]
+    },
+    {
+        "id": "0f439b002e307571",
+        "type": "switch",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 370,
+        "y": 1260,
+        "wires": [
+            [
+                "80fb11d7f31d0f54"
+            ]
+        ]
+    },
+    {
+        "id": "80fb11d7f31d0f54",
+        "type": "function",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "function 2",
+        "func": "msg.payload = true;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 1260,
+        "wires": [
+            [
+                "22f4dc27b46af300"
+            ]
+        ]
+    },
+    {
+        "id": "22f4dc27b46af300",
+        "type": "change",
+        "z": "570cd342ece4aae8",
+        "g": "3bfa2fead9d1430a",
+        "name": "Riabilitazione",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 570,
+        "y": 1180,
+        "wires": [
+            [
+                "6faae349604fa3d0"
+            ]
+        ]
+    },
+    {
+        "id": "906a1b05dcfec029",
+        "type": "comment",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "info": "**Nuovo accesso**\nquesta sezione è dedicata alla schermata \"Statistiche\" della dashboard. Quando si riceve un nuovo messaggio dal topic\n\"Allarme\" si estrae il payload, il quale se ha valore \"true\" allora si attiva una funzione \"Conteggio attivazioni allarme\" la quale\npermette di scrivere la query da effettuare al DB per aggiornare i dati di accesso giornalieri.\nDopo aver effettuato l'update il grafico degli accessi deve essere aggiornato, quindi utilizziamo un nodo \"trigger\" che si attiva\nalla ricezione del valore ritornato dalla update e attiva di conseguenza una funzione \"selectAll\" la quale permette di effettuare \nuna seconda query al database per prelevare tutte le tuple relative all'ultima settimana. Il risultato della query viene passato\nnuovamente ad una funzione di \"Conversione\" la quale permette di estrarre tutte le tuple ritornate dalla query e di mostrare sul\ngrafico questi valori. \n\n**Seleziona nuova data**\nQuando si seleziona una nuova data su cui visualizzare gli accessi si dovrà effettuare una nuova query al DB e prelevare\ni dati relativi fino a 7 giorni prima della data specificata.",
+        "x": 1160,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "f9feafe0a0408106",
+        "type": "comment",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "info": "Se il valore ricevuto dal sistema è \"true\" allora si aprirà un dialog che conterrà un\nmessaggio di conferma attivazione dell'allarme.\n",
+        "x": 620,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "b97fa965d640abf8",
+        "type": "comment",
+        "z": "570cd342ece4aae8",
+        "g": "44214416c05b5596",
+        "name": "",
+        "info": "\n\nIn base al valore ricevuto si utilizza un nodo \"Blinker\" il quale\npermette di inviare impulsi ad intervalli regolari. Se il valore ricevuto dal\nnodo è \"true\" allora questo si attiverà e invierà impulsi ad intervalli regolari ad un nodo led,\nil quale lampeggerà a simulare l'allarme attivo.\n(Il nodo false inziale è utilizzato per disattivare il nodo \"Blinker\" all'avvio).",
+        "x": 660,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "3ee10ed7aa51efcc",
+        "type": "comment",
+        "z": "570cd342ece4aae8",
+        "g": "5213f6216db38b44",
+        "name": "",
+        "info": "Il pulsante \"Riavvia\" viene utilizzato quando si vuole riavviare il sistema. Si invia un messaggio al server mqtt sul nodo\n\"FortiVault/System/State\" dal quale il sistema leggerà e riavvierà il sistema di conseguenza.",
+        "x": 940,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "9848588a3e727b7f",
+        "type": "comment",
+        "z": "570cd342ece4aae8",
+        "name": "",
+        "info": "**Accesso con user e password**\nPer impostare l'accesso con nome utente e password è\nstato necessario accedere al file \"settings.js\"\nall'interno della cartella date di nodered e modificare decommentare la riga\nrelativa a \"httpNodeAuth\", decommentando è possibile assegnare alla variabile\nuser il nome utente che si vuole utilizzare e alla\nvariabile pass la password che si vuole utilizzare.\nE' possibile definire la password in forma hashata\nutilizzando il comando \"node-red admin hash-pw\" e scrivendo\nla password, successivamente si copia questo valore nel campo password.\n",
+        "x": 480.33331298828125,
+        "y": 58.666656494140625,
+        "wires": []
+    }
+]
