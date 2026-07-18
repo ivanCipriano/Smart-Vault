@@ -12,21 +12,29 @@ A **Node-RED dashboard** provides real-time monitoring, historical access data v
 
 Since the system relies heavily on visual feedback, here is an overview of the user interfaces:
 
+### Node-RED Dashboard
+The remote control panel allows the administrator to manage and monitor the vault securely.
+
+**Main Control Panel & Active State**
+![Main Dashboard](./images/dash7.png)
+*Dashboard showing manual control enabled, alarm active, door open, and lights on.*
+
+**Alarm Notification System**
+![Alarm Notification](./images/dash6.png)
+*Real-time popup alert triggered automatically when the vault alarm sounds.*
+
+**Weekly Statistics & Analytics**
+![Statistics Charts](./images/dash4.png)
+*Visual representation of daily accesses and alarm triggers over a selected timeframe.*
+
 ### Physical Interface (Vault Screens)
-The system features two separate displays for distinct purposes:
+The system features two separate physical displays for on-site monitoring and interaction:
 - **Access Display (Screen 1):** Acts as the user interaction point. It prompts the user with an "Insert access code" message. As the user types on the numeric keypad, the screen masks the input by displaying asterisks (`*`), mimicking a classic ATM or vault interface.
 - **Statistics Display (Screen 2):** Acts as a local monitoring station. It shows real-time data, including:
   - Door status (Open/Closed).
   - Alarm status (Active/Inactive).
   - Visual indicator (a blinking dot) representing an actively ringing alarm.
   - Total number of accesses.
-
-### Node-RED Dashboard
-The remote control panel allows the administrator to:
-- Remotely open or close the vault door.
-- Monitor the real-time status of the door and the alarm.
-- Remotely turn off the alarm if triggered.
-- View a weekly access graph to track usage patterns over time.
 
 ---
 
